@@ -1,0 +1,16 @@
+[33mcommit 73bc4fb9bc307e2429beb3ca0cd01b155b0d0240[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vitalik <vitalik.94.07@gmail.com>
+Date:   Sat Feb 19 19:37:00 2022 +0200
+
+    added addnumber function
+
+[1mdiff --git a/app.js b/app.js[m
+[1mindex c6404f3..33971a6 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -55,3 +55,4 @@[m
+ [m
+ // 5 Приоритет операторов[m
+ [m
+[32m+[m[32mconst a = 10[m
+\ No newline at end of file[m
