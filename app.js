@@ -55,4 +55,10 @@
 
 // 5 Приоритет операторов
 
-const a = 10
+
+const fullAge = 27
+const birthYear = 1994
+const currentYear = 2022
+
+const isFullAge = (currentYear - birthYear) >= fullAge
+console.log(isFullAge)
